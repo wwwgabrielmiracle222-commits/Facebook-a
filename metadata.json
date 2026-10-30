@@ -1,0 +1,6 @@
+{
+  "name": "Facebook A",
+  "description": "A fast, lightweight Facebook A application with interactive feed, post composer, stories, Messenger Lite chat, friend requests, notifications, and customizable profile.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
